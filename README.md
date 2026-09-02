@@ -16,7 +16,7 @@ Resolución completa y documentada de 41 katas en Python. El objetivo del proyec
 
 ## Tecnologías Utilizadas
 
-* **Lenguaje:** Python 3.x
+* **Lenguaje:** Python 3.14.3
 * **Librerías Nativas:** `functools` (`reduce`), `math`
 
 ---
